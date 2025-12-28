@@ -9,6 +9,7 @@ Exploratory analysis of bike sales data using Excel
 -[Recommendations](#recommendations)
 
 ### Project Overview
+---
 This project analyzes bike sales.
 It explores trends based on age, income, and commute distance. 
 [See reference to dashboard] 
